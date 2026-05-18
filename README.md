@@ -20,9 +20,8 @@ Cybersecurity/Computer Science Engineer student working toward a career in the s
 ## 🛠️ Tech Stack
 - **Languages:** [Python, JavaScript, Java]
 - **Frontend:** [React, HTML]
-- **Backend:** [NA]
 - **Tools & Platforms:** [Git, Docker, AWS]
-- **Databases:** [NA]
+- **Databases:** [Exel, mongoDB]
 
 ## 📚 Education
 - Highschool Graduate
@@ -30,7 +29,11 @@ Cybersecurity/Computer Science Engineer student working toward a career in the s
 - Bach of cybersecurity in progress  @FIU 
 
 ## 💡 Projects 
-- **IAM Dashboard:** A security team work haven that centralizes vulnerability scanning and findings to enhance SOC analyst and security engineer workflows. One place to see AWS security posture, triage findings, track tickets, and reduce tool-switching.
+- 🛡️ IAM Argus Security Dashboard
+🏆 Ranked #1 "Best Overall" out of 16 Engineering Teams on Demo Day by Blackstone
+A high-performance cloud security command center built to detect and remediate IAM misconfigurations in real-time.
+Tech Stack: AWS Python Terraform Docker
+- **[Project]:** [Brief description]
 - **[Project]:** [Brief description]
 
 
